@@ -9,6 +9,7 @@ body{
 	justify-content:space-between;
 }
 .square{
+	background-color:rgb(29,29,29);
 	width:20px;
 	height:20px;
 	margin:1px;
