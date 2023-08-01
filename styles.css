@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+body{
+	background-color:black;
+}
+.main{
+	padding:10px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.item{
+	background-color:#1d1d1d;
+	width:20px;
+	height:20px;
+	margin:1px;
+}
+.item1:hover{
+	background-color:blue;
+}
+.item2:hover{
+	background-color:red;
+}
+.item3:hover{
+	background-color:green;
+}
+.item4:hover{
+	background-color:white;
+}
+.item5:hover{
+	background-color:yellow;
+}
+.item6:hover{
+	background-color:pink;
+}
+.item7:hover{
+	background-color:gray;
+}
+.item8:hover{
+	background-color:brown;
+}
+.item9:hover{
+	background-color:purple;
+}
+.item10:hover{
+	background-color:magenta;
+}
